@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Scope" max_length="40" name="x_790272_scoped_ap_scope" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="App" max_length="40" name="app" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Scoped" max_length="40" name="scoped" type="string"/>
+    </element>
+</database>

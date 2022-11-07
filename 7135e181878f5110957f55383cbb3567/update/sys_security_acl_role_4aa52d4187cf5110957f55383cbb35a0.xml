@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 05:00:40</sys_created_on>
+        <sys_id>4aa52d4187cf5110957f55383cbb35a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_790272_scoped_ap_scope.x_790272_scoped_ap.scope_app</sys_name>
+        <sys_package display_value="Scoped App" source="x_790272_scoped_ap">7135e181878f5110957f55383cbb3567</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped App">7135e181878f5110957f55383cbb3567</sys_scope>
+        <sys_security_acl display_value="x_790272_scoped_ap_scope">4ea52d4187cf5110957f55383cbb359d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4aa52d4187cf5110957f55383cbb35a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 05:00:40</sys_updated_on>
+        <sys_user_role display_value="x_790272_scoped_ap.scope_app" name="x_790272_scoped_ap.scope_app">8455a14187cf5110957f55383cbb35e8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
