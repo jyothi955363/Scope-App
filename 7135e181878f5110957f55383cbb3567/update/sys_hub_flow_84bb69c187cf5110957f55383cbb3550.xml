@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description>scope app</description>
         <internal_name>scope_app</internal_name>
-        <label_cache>[{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.Record","label":"1➛Record","reference":"task","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.email","label":"2➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.__action_status__","label":"2➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.__dont_treat_as_error__","label":"2➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}}]</label_cache>
+        <label_cache>[{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.__dont_treat_as_error__","label":"2➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.__action_status__","label":"2➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9.email","label":"2➛email","reference":"sys_email","reference_display":"email","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.Record","label":"1➛Record","reference":"task","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.__action_status__","label":"1➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"02383a24-0a84-451d-9d43-b9beea1f0243.__dont_treat_as_error__","label":"1➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0d27cc00-1daf-4c71-a50e-d1426f069f92.__action_status__","label":"3➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"co_type_name":"FDACTIONSTATUS","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"object","action_error_output":"true"}},{"name":"0d27cc00-1daf-4c71-a50e-d1426f069f92.__dont_treat_as_error__","label":"3➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"boolean","visible_in_ui":"false","action_error_output":"true"}}]</label_cache>
         <latest_snapshot/>
         <master_snapshot/>
         <name>scope App</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>84bb69c187cf5110957f55383cbb3550</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>scope App</sys_name>
         <sys_overrides/>
         <sys_package display_value="Scoped App" source="x_790272_scoped_ap">7135e181878f5110957f55383cbb3567</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Scoped App">7135e181878f5110957f55383cbb3567</sys_scope>
         <sys_update_name>sys_hub_flow_84bb69c187cf5110957f55383cbb3550</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-07 07:04:23</sys_updated_on>
+        <sys_updated_on>2022-11-07 07:06:14</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=84bb69c187cf5110957f55383cbb3550"/>
@@ -53,10 +53,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-07 06:40:06</sys_created_on>
         <sys_id>766c7d8187039110957f55383cbb3518</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-07 07:04:23</sys_updated_on>
+        <sys_updated_on>2022-11-07 07:06:14</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -242,7 +242,31 @@
     </sys_hub_flow_input>
     <sys_hub_flow_output action="delete_multiple" query="model=84bb69c187cf5110957f55383cbb3550"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=84bb69c187cf5110957f55383cbb3550"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=84bb69c187cf5110957f55383cbb3550^sys_idNOT IN9af1c2c587039110957f55383cbb3534,b26c7d8187039110957f55383cbb351e"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=84bb69c187cf5110957f55383cbb3550^sys_idNOT IN21624ac587039110957f55383cbb3532,9af1c2c587039110957f55383cbb3534,b26c7d8187039110957f55383cbb351e"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Delete Record">c3e09916c31332002841b63b12d3aedf</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="scope App">84bb69c187cf5110957f55383cbb3550</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:06:14</sys_created_on>
+        <sys_id>21624ac587039110957f55383cbb3532</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="Scoped App">7135e181878f5110957f55383cbb3567</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 07:06:14</sys_updated_on>
+        <ui_id>0d27cc00-1daf-4c71-a50e-d1426f069f92</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=21624ac587039110957f55383cbb3532"/>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_c3e09916c31332002841b63b12d3aedf^id=21624ac587039110957f55383cbb3532"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=21624ac587039110957f55383cbb3532"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=21624ac587039110957f55383cbb3532"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
@@ -257,10 +281,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-07 07:04:23</sys_created_on>
         <sys_id>9af1c2c587039110957f55383cbb3534</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope display_value="Scoped App">7135e181878f5110957f55383cbb3567</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-07 07:04:23</sys_updated_on>
+        <sys_updated_on>2022-11-07 07:06:14</sys_updated_on>
         <ui_id>f43c1fd5-8fe7-4e9a-9211-77e9ffdbf4c9</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9af1c2c587039110957f55383cbb3534"/>
@@ -281,10 +305,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-07 06:40:06</sys_created_on>
         <sys_id>b26c7d8187039110957f55383cbb351e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Scoped App">7135e181878f5110957f55383cbb3567</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-07 07:04:23</sys_updated_on>
+        <sys_updated_on>2022-11-07 07:06:14</sys_updated_on>
         <ui_id>02383a24-0a84-451d-9d43-b9beea1f0243</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b26c7d8187039110957f55383cbb351e"/>
